@@ -1,4 +1,4 @@
-<img width="50px" height="50px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p  align="center" ><img width="250px" height="170px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
 <h1 align="center">Friends, My Name is Muhammed Majid</h1>
 <h3 align="center">My bright people, let's give them a amazing future ⭐</h3>
 
