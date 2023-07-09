@@ -8,13 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/majidnope" target="_blank"><img src="https://img.shields.io/twitter/follow/majidnope?logo=twitter&style=for-the-badge" alt="majidnope" /></a> </p>
 
-- 🔭 I’m currently working on **Saas Project**
-
-- 👨‍💻 All of my projects are available at [www.majidnope.tech](www.majidnope.tech)
-
-- 💬 Ask me about **react, next.js, web development node.js and express.js**
-
-- 📫 How to reach me **muhammed0000majid@gmail.com**
+- 📫 How to reach me **majidnope@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
