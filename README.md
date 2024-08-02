@@ -1,6 +1,6 @@
 <p  align="center" ><img width="250px" height="170px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
-<h1 align="center">My Name is Muhammed Majid</h1>
-<h3 align="center">My bright people, let's give them a amazing future ⭐</h3>
+<h1 align="center">Muhammed Majid</h1>
+<h3 align="center">Passionately building solutions that make a difference ⭐</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majidnope&label=Profile%20views&color=0e75b6&style=flat" alt="majidnope" /> </p>
 
