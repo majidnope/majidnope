@@ -20,36 +20,6 @@
 
 ---
 
-### Connect with Me:
-<p align="center">
-  <a href="https://dev.to/majidnope" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge" alt="Dev.to" />
-  </a>
-  <a href="https://twitter.com/majidnope" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/majidnope" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/majidnope" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
-  </a>
-  <a href="https://medium.com/@muhammed0000majid" target="_blank">
-    <img src="https://img.shields.io/badge/medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium" />
-  </a>
-  <a href="https://www.hackerearth.com/@muhammed0000majid" target="_blank">
-    <img src="https://img.shields.io/badge/hackerearth-4D3F75?logo=hackerearth&logoColor=white&style=for-the-badge" alt="HackerEarth" />
-  </a>
-  <a href="https://discord.gg/NOPE#9248" target="_blank">
-    <img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
-  </a>
-  <a href="https://media.rss.com/majidnope/feed.xml" target="_blank">
-    <img src="https://img.shields.io/badge/rss-FF5722?logo=rss&logoColor=white&style=for-the-badge" alt="RSS Feed" />
-  </a>
-</p>
-
----
-
 ### Technologies & Tools:
 
 **Frontend Development:**
@@ -114,5 +84,34 @@
     <img src="https://img.shields.io/badge/Adobe_Illustrator-964B00?logo=adobeillustrator&logoColor=white&style=for-the-badge" alt="Adobe Illustrator" />
 </p>
 
+### Connect with Me:
+<p align="center">
+  <a href="https://dev.to/majidnope" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge" alt="Dev.to" />
+  </a>
+  <a href="https://twitter.com/majidnope" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/majidnope" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/majidnope" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+  </a>
+  <a href="https://medium.com/@muhammed0000majid" target="_blank">
+    <img src="https://img.shields.io/badge/medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium" />
+  </a>
+  <a href="https://www.hackerearth.com/@muhammed0000majid" target="_blank">
+    <img src="https://img.shields.io/badge/hackerearth-4D3F75?logo=hackerearth&logoColor=white&style=for-the-badge" alt="HackerEarth" />
+  </a>
+  <a href="https://discord.gg/NOPE#9248" target="_blank">
+    <img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
+  </a>
+  <a href="https://media.rss.com/majidnope/feed.xml" target="_blank">
+    <img src="https://img.shields.io/badge/rss-FF5722?logo=rss&logoColor=white&style=for-the-badge" alt="RSS Feed" />
+  </a>
+</p>
+
+---
 ---
 
