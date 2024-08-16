@@ -22,28 +22,28 @@
 ### Connect with Me:
 <p align="center">
   <a href="https://dev.to/majidnope" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/devdotto.svg" alt="Dev.to" height="30" width="40" />
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge" alt="Dev.to" />
   </a>
   <a href="https://twitter.com/majidnope" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://img.shields.io/badge/twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
   </a>
   <a href="https://linkedin.com/in/majidnope" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/majidnope" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
   </a>
   <a href="https://medium.com/@muhammed0000majid" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Medium" height="30" width="40" />
+    <img src="https://img.shields.io/badge/medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium" />
   </a>
   <a href="https://www.hackerearth.com/@muhammed0000majid" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
+    <img src="https://img.shields.io/badge/hackerearth-4D3F75?logo=hackerearth&logoColor=white&style=for-the-badge" alt="HackerEarth" />
   </a>
   <a href="https://discord.gg/NOPE#9248" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="Discord" height="30" width="40" />
+    <img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
   </a>
   <a href="https://media.rss.com/majidnope/feed.xml" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" alt="RSS Feed" height="30" width="40" />
+    <img src="https://img.shields.io/badge/rss-FF5722?logo=rss&logoColor=white&style=for-the-badge" alt="RSS Feed" />
   </a>
 </p>
 
@@ -53,56 +53,52 @@
 
 **Frontend Development:**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="React" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" alt="TypeScript" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" alt="SASS" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="React Native" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/electron.svg" alt="Electron" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nextdotjs.svg" alt="Next.js" width="38" height="38" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" alt="SASS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React Native" />
+  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=for-the-badge" alt="Electron" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
 </p>
 
 **Backend Development:**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" alt="Node.js" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nestjs.svg" alt="NestJS" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" alt="GraphQL" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rest-api.svg" alt="REST API" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" alt="Java" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rust.svg" alt="Rust" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" alt="Docker" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" alt="AWS" width="38" height="38" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" alt="NestJS" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/REST_API-3C3C3C?logo=swagger&logoColor=white&style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" alt="Rust" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS" />
 </p>
 
 **Databases:**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" alt="MongoDB" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="MySQL" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" alt="PostgreSQL" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/prisma.svg" alt="Prisma" width="38" height="38" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" alt="Prisma" />
 </p>
 
 **DevOps & Infrastructure:**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nginx.svg" alt="NGINX" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apache.svg" alt="Apache" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" alt="Linux" width="38" height="38" />
+  <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" alt="NGINX" />
+  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" alt="Apache" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white&style=for-the-badge" alt="Linux" />
 </p>
 
 **Other Tools:**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" alt="Figma" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" alt="Photoshop" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blender.svg" alt="Blender" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/arduino.svg" alt="Arduino" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" alt="Firebase" width="38" height="38" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge" alt="Blender" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" alt="Firebase" />
 </p>
 
 ---
 
-### GitHub Stats:
-<p align="center">
-  ![Muhammed Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=majidnope&show_icons=true&theme=dark)
-</p>
