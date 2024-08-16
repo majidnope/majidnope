@@ -10,8 +10,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=majidnope" alt="GitHub Trophy" />
   </a>
   <a href="https://twitter.com/majidnope" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/majidnope?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  <img src="https://komarev.com/ghpvc/?username=majidnope&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://img.shields.io/twitter/follow/majidnope?logo=twitter&style=for-the-badge" alt="Twitter Follow" /> 
+    <br/>
+    <img src="https://komarev.com/ghpvc/?username=majidnope&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
