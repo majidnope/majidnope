@@ -111,6 +111,7 @@
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge" alt="Blender" />
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" alt="Arduino" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Adobe_Illustrator-FFCA28?logo=adobeillustrator&logoColor=white&style=for-the-badge" alt="Firebase" />
 </p>
 
 ---
