@@ -84,6 +84,7 @@
     <img src="https://img.shields.io/badge/Adobe_Illustrator-964B00?logo=adobeillustrator&logoColor=white&style=for-the-badge" alt="Adobe Illustrator" />
 </p>
 
+---
 ### Connect with Me:
 <p align="center">
   <a href="https://dev.to/majidnope" target="_blank">
@@ -112,6 +113,5 @@
   </a>
 </p>
 
----
 ---
 
