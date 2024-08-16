@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<p align="center">📫 How to reach me: **majidnope@gmail.com**</p>
+<p align="center">📫 How to reach me: <strong>majidnope@gmail.com</strong></p>
 
 ---
 
