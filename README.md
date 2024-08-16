@@ -54,12 +54,12 @@
 
 **Frontend Development:**
 <p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/React-1DA1F2?logo=react&logoColor=white&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" alt="SASS" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React Native" />
+  <img src="https://img.shields.io/badge/React_Native-1DA1F2?logo=react&logoColor=white&style=for-the-badge" alt="React Native" />
   <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=for-the-badge" alt="Electron" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
 </p>
@@ -111,7 +111,7 @@
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge" alt="Blender" />
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" alt="Arduino" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" alt="Firebase" />
-    <img src="https://img.shields.io/badge/Adobe_Illustrator-FFCA28?logo=adobeillustrator&logoColor=white&style=for-the-badge" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Adobe_Illustrator-964B00?logo=adobeillustrator&logoColor=white&style=for-the-badge" alt="Adobe Illustrator" />
 </p>
 
 ---
