@@ -90,6 +90,18 @@
   <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" alt="NGINX" />
   <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" alt="Apache" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white&style=for-the-badge" alt="Linux" />
+</p> 
+
+**Version Control:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge" alt="GitLab" />
+</p>
+
+**MediaPipe:**
+<p align="left">
+  <img src="https://img.shields.io/badge/MediaPipe-FF3C78?logo=google&logoColor=white&style=for-the-badge" alt="MediaPipe" />
 </p>
 
 **Other Tools:**
