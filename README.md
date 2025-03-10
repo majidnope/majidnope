@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="[https://github-profile-trophy.vercel.app/?username=majidnope](https://github-profile-trophy.vercel.app/?username=majidnope&rank=SECRET,SSS,SS,S,AAA,AA,A)" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=majidnope&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophy" />
   </a>
   <a href="https://twitter.com/majidnope" target="_blank">
     <img src="https://img.shields.io/twitter/follow/majidnope?logo=twitter&style=for-the-badge" alt="Twitter Follow" /> 
