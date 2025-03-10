@@ -6,9 +6,11 @@
 <h3 align="center">Passionately building solutions that make a difference ⭐</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+  <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=majidnope&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophy" />
-  </a>
+  </p>
+   
+
   <a href="https://twitter.com/majidnope" target="_blank">
     <img src="https://img.shields.io/twitter/follow/majidnope?logo=twitter&style=for-the-badge" alt="Twitter Follow" /> 
     <br/>
