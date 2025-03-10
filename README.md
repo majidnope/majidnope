@@ -3,14 +3,11 @@
 </p>
 
 <h1 align="center">Muhammed Majid</h1>
-<h3 align="center">Passionately building solutions that make a difference ⭐</h3>
-
-<p align="center">
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=majidnope&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophy" />
-  </p>
-   
-
+<h3>Passionately building solutions that make a difference ⭐</h3>
+<p>
+   <img  src="https://github-profile-trophy.vercel.app/?username=majidnope&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&theme=darkhub">
+</p>
+<p >
   <a href="https://twitter.com/majidnope" target="_blank">
     <img src="https://img.shields.io/twitter/follow/majidnope?logo=twitter&style=for-the-badge" alt="Twitter Follow" /> 
     <br/>
@@ -18,7 +15,7 @@
   </a>
 </p>
 
-<p align="center">📫 How to reach me: <strong>majidnope@gmail.com</strong></p>
+<p>📫 How to reach me: <strong>majidnope@gmail.com</strong></p>
 
 ---
 
@@ -88,7 +85,7 @@
 
 ---
 ### Connect with Me:
-<p align="center">
+<p>
   <a href="https://dev.to/majidnope" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge" alt="Dev.to" />
   </a>
